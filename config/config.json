@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "ledgerguy",
+    "password": null,
+    "database": "ledger-dev",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "ledgerguy",
+    "password": null,
+    "database": "ledger-test",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "root",
+    "password": null,
+    "database": "ledger",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
